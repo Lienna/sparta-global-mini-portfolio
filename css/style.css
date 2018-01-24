@@ -10,36 +10,28 @@ body {
   float: right;
 }
 
-p {
-  color: black;
-}
-
-
 .banner {
-  text-align: center;
-  margin-top: 40px;
-  background-color: grey;
+  margin-top: 50px;
 }
-
 
 .left {
   float: left;
   font-size: 20px;
-  margin: 30px;
+  margin: 50px;
   max-width: 500px;
   text-align: center;
 }
 
 h2 {
   text-align: center;
-  color: black;
+  font-size: 50px;
 }
 
 .right {
   float: right;
-  margin: 30px;
+  margin: 50px;
   max-width: 500px;
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;
 }
 
@@ -55,16 +47,16 @@ footer {
   .left {
     float: none;
     font-size: 20px;
-    margin: 30px;
+    margin: 50px;
     max-width: 500px;
     text-align: center;
   }
 
   .right {
     float: none;
-    margin: 30px;
+    margin: 50px;
     max-width: 500px;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
   }
 
