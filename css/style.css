@@ -1,3 +1,57 @@
+.container {
+  margin: auto; max-width: 900px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: grey;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
 .links {
   float: right;
+}
+
+.banner {
+  text-align: center;
+  background-color: grey;
+  border-style: solid; black;
+  margin-top: 40px;
+}
+
+.left {
+  float: left;
+  font-size: 20px;
+  margin-right: 20px;
+  max-width: 500px;
+  margin-top: 40px;
+  margin-left: 70px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.right {
+  float: right;
+  margin-right: 70px;
+  max-width: 500px;
+  font-size: 20px;
+  margin-top: 70px;
+
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  font-style: oblique;
 }
