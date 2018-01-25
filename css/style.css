@@ -10,6 +10,11 @@ body {
   float: right;
 }
 
+.hello {
+  border-radius: 50%;
+
+}
+
 .banner {
   margin-top: 50px;
 }
